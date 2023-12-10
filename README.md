@@ -2,7 +2,7 @@
 
 Steps to setup : 
 
-1. Setup the code
+1. Pull or download the given code.
 2. Run "npm i" in terminal to install dependencies
 3. Run "npm run dev"
 
