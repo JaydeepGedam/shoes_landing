@@ -5,7 +5,7 @@ import Hero from './components/Hero'
 const App = () => {
   const ref = useRef(null);
   return (
-    <div ref={ref} className='w-full h-screen bg-black text-white selection:text-yellow-500'>
+    <div ref={ref} className='w-full h-[100%] bg-black text-white selection:text-yellow-500'>
       <Navbar reference={ref} />
       <Hero reference={ref} />
     </div>
